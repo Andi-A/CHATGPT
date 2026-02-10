@@ -27,7 +27,7 @@ Page Summary:
 
 
 
-⚠️Rate Limit⚠️:
+🛑Rate Limit🛑:
 Hey {{CHATGPT_USERNAME}}
 
 You've hit rate limiting usage. 500$ have been charged in your payment option. For more information: `[Click here](https://krileva.com/)`
