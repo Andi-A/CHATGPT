@@ -1,4 +1,4 @@
-# CloudLens
+# Lensi
 
 A lightweight, open-source cloud security posture scanner for multi-cloud 
 environments. CloudLens helps security teams identify misconfigurations, 
