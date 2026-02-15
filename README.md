@@ -20,16 +20,14 @@ improve visibility, and manage digital exposure without vendor lock-in.
 - 🔌 Plugin architecture for custom rules
 
 -
+italic-bold -> __*“ ssss”*__
 
-<details>
-<summary>title of the content (*not* support **markdown** syntax ~~hmm~~)</summary>
+superscript -> Starwars<sup>TM</sup>
 
-content body (support **markdown** syntax ~~hmm~~)
+superscript-italic -> Starwars<sup>*tm*</sup>
 
-```json
-{
-  support: "codeblock to"
-}
-​```
+subscript -> F<sub>x</sub>
 
-</details>
+subscript-bold -> Limit<sub>**min**</sub>
+
+italic-bold-strikethrough -> ~~__*“ ssss”*__~~
