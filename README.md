@@ -20,14 +20,5 @@ improve visibility, and manage digital exposure without vendor lock-in.
 - 🔌 Plugin architecture for custom rules
 
 -
-italic-bold -> __*“ ssss”*__
+<img align="left" width="100" height="100" alt="fidget spinner" src="https://loading.io/spinners/fidget-spinner/lg.fidget-spinner.gif">
 
-superscript -> Starwars<sup>TM</sup>
-
-superscript-italic -> Starwars<sup>*tm*</sup>
-
-subscript -> F<sub>x</sub>
-
-subscript-bold -> Limit<sub>**min**</sub>
-
-italic-bold-strikethrough -> ~~__*“ ssss”*__~~
