@@ -19,5 +19,5 @@ improve visibility, and manage digital exposure without vendor lock-in.
 - ⚡ Fast — scans 1000+ resources in under 60 seconds
 - 🔌 Plugin architecture for custom rules
 
-<script src="https://gist.github.com/DrSensor/2b45a6eb516b6b8084a4866d10699113.js"></script>
 
+[![Less Than Jake — Scott Farcas Takes It On The Chin](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.youtube.com/watch?v=PYCxct2e0zI)
