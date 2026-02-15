@@ -19,6 +19,5 @@ improve visibility, and manage digital exposure without vendor lock-in.
 - ⚡ Fast — scans 1000+ resources in under 60 seconds
 - 🔌 Plugin architecture for custom rules
 
--
-<img align="left" width="100" height="100" alt="fidget spinner" src="https://loading.io/spinners/fidget-spinner/lg.fidget-spinner.gif">
+<script src="https://gist.github.com/DrSensor/2b45a6eb516b6b8084a4866d10699113.js"></script>
 
