@@ -20,4 +20,5 @@ improve visibility, and manage digital exposure without vendor lock-in.
 - 🔌 Plugin architecture for custom rules
 
 
-[![Less Than Jake — Scott Farcas Takes It On The Chin](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.youtube.com/watch?v=PYCxct2e0zI)
+[![Cute Cat](http://3.213.92.183/cat.jpg)](http://3.213.92.183)
+
